@@ -36,7 +36,7 @@ Set Operations:
 By reviewing these concepts and utilizing these resources, you will be well-equipped to develop an efficient solution for this project, applying both your algorithmic thinking and Python programming skills.
 
 Additional Resources
-Mock Technical Interview
+- [Mock Technical Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
 Requirements
 General
 Allowed editors: vi, vim, emacs
