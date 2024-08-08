@@ -17,6 +17,4 @@ def minOperations(n):
             ops = ops + root
         else:
             root = root + 1
-        # increment root until it evely-divides n
-        root += 1
     return ops
